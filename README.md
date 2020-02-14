@@ -12,12 +12,13 @@ Project goals:
 Dependencies:
 tensorflow == 1.15
 
-1. Object detection for traffic lights
 
-2. Generating Training data
+## 1. Object detection for traffic lights
 
-3. Network Architecture
+## 2. Generating Training data
 
-4. Model Results
+## 3. Network Architecture
 
-5. Detection & Classification Pipeline
+## 4. Model Results
+
+## 5. Detection & Classification Pipeline
