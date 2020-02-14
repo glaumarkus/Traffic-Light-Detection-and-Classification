@@ -5,9 +5,12 @@ This project is one part of the Udacity Self-Driving Car Capstone Project. Withi
 
 Project goals:
 - use an existing tensorflow object detection model to accuratly identify traffic lights in images
-- generate training data with object detecion and BOSCH dataset
+- generate training data with object detecion and BOSCH dataset (can be found here)
 - implement and train CNN on created data
 - implement full pipeline from image input to classification
+
+Dependencies:
+tensorflow == 1.15
 
 1. Object detection for traffic lights
 
