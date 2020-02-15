@@ -160,15 +160,16 @@ For building this we need:
 - pipeline for image feed (detection & classification)
 - map prediction back to label
 
-
-    Classification: G after 2.885s
-    Classification: Y after 0.058s
-    Classification: Y after 0.06s
-    Classification: G after 0.072s
+    Classification: G after 2.885s  
+    
+    Classification: Y after 0.058s  
+    
+    Classification: Y after 0.06s   
+    
+    Classification: G after 0.072s  
+    
     Classification: R after 0.06s
     
-
-
 ![png](media/classification_pipeline.png)
 
 
